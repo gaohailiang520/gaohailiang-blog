@@ -10,7 +10,7 @@
 cd D:\创业\tools\book divide\self_improve\blog
 
 # 1. 拉取最新代码（避免冲突）
-git pull origin master
+git pull origin main
 
 # 2. 添加所有修改
 git add .
@@ -20,7 +20,7 @@ $timestamp = Get-Date -Format 'yyyy-MM-dd HH:mm'
 git commit -m "update: $timestamp"
 
 # 4. 推送到 GitHub（自动触发部署）
-git push origin master
+git push origin main
 ```
 
 > 注意：必须先 `pull` 再 `push`，确保本地和远程同步。
