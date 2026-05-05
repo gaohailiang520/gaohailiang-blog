@@ -41,6 +41,7 @@ export default defineConfig({
             { text: '《高效能人士的七个习惯》', link: '/tech/seven-habits' },
             { text: '《程序员的自我修养》', link: '/tech/programmer-self-cultivation' },
             { text: '《纳瓦尔宝典》', link: '/tech/naval-almanack' },
+            { text: '《奔跑吧Linux内核》', link: '/tech/奔跑吧linux内核' },
           ]
         }
       ],
