@@ -55,6 +55,7 @@ export default defineConfig({
   },
 
   // GitHub Pages 配置
+  base: '/gaohailiang-blog/',
   lastUpdated: true,
 
   // 忽略死链接检查（因为还没创建所有文件）
