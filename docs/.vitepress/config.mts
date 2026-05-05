@@ -33,14 +33,15 @@ export default defineConfig({
             { text: '驱动学习', link: '/tech/driver' },
             { text: '底层知识', link: '/tech/low-level' },
           ]
+        },
+        {
+          text: '读书笔记',
+          items: [
+            { text: '《原则》', link: '/tech/principles' },
+            { text: '《高效能人士的七个习惯》', link: '/tech/seven-habits' },
+          ]
         }
-      ]
-    },
-
-    // 社交链接
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/gaohailiang520' }
-    ],
+      ],
 
     // 页脚
     footer: {
