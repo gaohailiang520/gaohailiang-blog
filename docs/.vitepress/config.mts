@@ -39,6 +39,7 @@ export default defineConfig({
           items: [
             { text: '《原则》', link: '/tech/principles' },
             { text: '《高效能人士的七个习惯》', link: '/tech/seven-habits' },
+            { text: '《程序员的自我修养》', link: '/tech/programmer-self-cultivation' },
           ]
         }
       ],
