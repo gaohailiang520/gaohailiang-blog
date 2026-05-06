@@ -31,11 +31,6 @@ Hi, 我是**高海亮**，一名华为驱动工程师。
   - Guosen Xie, **Hailiang Gao**, Rui Yan, Qiongjie Cui, Hongyu Qu, Xiangbo Shu*
   - [Paper]
 
-### 学习记录
-
-- [2026-05] 开始记录驱动学习笔记
-- [2026-05] 搭建个人主页
-
 ## 联系方式
 
 - GitHub: [gaohailiang520](https://github.com/gaohailiang520)
