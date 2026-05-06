@@ -17,6 +17,22 @@ Hi, 我是**高海亮**，一名华为驱动工程师。
 
 ## 近期更新
 
+### 论文发表
+
+- [2026-05] **Spatio-temporal Decoupled Knowledge Compensator for Few-Shot Action Recognition** (TPAMI 2026)
+  - Hongyu Qu, **Hailiang Gao**, Xiangbo Shu*, Rui Yan, Wenguan Wang, Jinhui Tang
+  - [Paper]
+
+- [2025] **MVP-Shot: Multi-Velocity Progressive-Alignment Framework for Few-Shot Action Recognition** (TMM 2025)
+  - Hongyu Qu, Rui Yan, Xiangbo Shu*, **Hailiang Gao**, Peng Huang, Guosen Xie
+  - [Paper]
+
+- [2024] **Hierarchical Motion-Enhanced Matching Framework for Few-Shot Action Recognition** (TMM 2024)
+  - Guosen Xie, **Hailiang Gao**, Rui Yan, Qiongjie Cui, Hongyu Qu, Xiangbo Shu*
+  - [Paper]
+
+### 学习记录
+
 - [2026-05] 开始记录驱动学习笔记
 - [2026-05] 搭建个人主页
 

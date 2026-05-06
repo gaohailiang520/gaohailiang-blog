@@ -20,9 +20,10 @@ export default defineConfig({
           text: '论文笔记',
           items: [
             { text: 'OSDI', link: '/papers/osdi' },
-            { text: 'SOSP', link: '/papers/sosp' },
-            { text: 'NSDI', link: '/papers/nsdi' },
-            { text: 'EuroSys', link: '/papers/eurosys' },
+            // TODO: 待添加
+            // { text: 'SOSP', link: '/papers/sosp' },
+            // { text: 'NSDI', link: '/papers/nsdi' },
+            // { text: 'EuroSys', link: '/papers/eurosys' },
           ]
         }
       ],
@@ -31,7 +32,8 @@ export default defineConfig({
           text: '技术收获',
           items: [
             { text: '驱动学习', link: '/tech/driver' },
-            { text: '底层知识', link: '/tech/low-level' },
+            // TODO: 待添加
+            // { text: '底层知识', link: '/tech/low-level' },
           ]
         },
         {
@@ -41,7 +43,8 @@ export default defineConfig({
             { text: '《高效能人士的七个习惯》', link: '/tech/seven-habits' },
             { text: '《程序员的自我修养》', link: '/tech/programmer-self-cultivation' },
             { text: '《纳瓦尔宝典》', link: '/tech/naval-almanack' },
-            { text: '《奔跑吧Linux内核》', link: '/tech/奔跑吧linux内核' },
+            // TODO: 待添加
+            // { text: '《奔跑吧Linux内核》', link: '/tech/奔跑吧linux内核' },
           ]
         }
       ],
